@@ -66,9 +66,14 @@ Built for people who want the power of yt-dlp without the terminal.
 
 ## Screenshots
 
-| Downloads | Queue | Scraper | Settings |
-|:---------:|:-----:|:-------:|:--------:|
-| <img src="screenshots/downloadactive.png" width="200"> | <img src="screenshots/queue.png" width="200"> | <img src="screenshots/scraper.png" width="200"> | <img src="screenshots/settings.png" width="200"> |
+<p align="center">
+  <img src="screenshots/downloadactive.png" alt="Downloads" width="48%">
+  <img src="screenshots/queue.png" alt="Queue" width="48%">
+</p>
+<p align="center">
+  <img src="screenshots/scraper.png" alt="Scraper" width="48%">
+  <img src="screenshots/settings.png" alt="Settings" width="48%">
+</p>
 
 ---
 
@@ -97,7 +102,7 @@ Video Fetcher 2026 is free to download and use. A one-time lifetime licence unlo
 | Scraper range | 10 URLs | **Unlimited** |
 | Queue size | 10 URLs | **Unlimited** |
 | Quick range buttons | ❌ | ✅ |
-| Price | Free | **£9.99 one-time** |
+| Price | Free | **£12.99 one-time** |
 
 👉 **[Purchase a lifetime licence](https://maxprovider.net/purchase.html)** — one-time payment, no subscriptions, no recurring fees.
 
@@ -188,7 +193,7 @@ No. One-time payment, lifetime licence. No renewals, no expiration.
 Each licence is tied to one machine. Contact us for additional keys.
 
 **What if yt-dlp stops working after a site update?**
-Update yt-dlp. On Linux: `sudo yt-dlp -U`. On Windows: download the latest version or use Tools → Update yt-dlp in the app.
+Update yt-dlp. On Linux: `sudo yt-dlp -U`. On Windows: use Tools → Update yt-dlp inside the app.
 
 **Is my payment secure?**
 All payments are processed by [Stripe](https://stripe.com), one of the world's largest payment processors. We never see or store card details.
